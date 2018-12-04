@@ -48,8 +48,7 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 
 -->
 
-
-## Тести
+<!-- ## Тести
 * Frontend
     * Yarn 
         * ```shell
@@ -62,7 +61,7 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
     $ cd frontend
     $ npm test
     ```
-
+-->
 ## Ліцензія
 
 MIT © 2018 [Misha Marinenko ](http://marinenko.rf.gd)[misha.marinenko.a@gmail.com](mailto:marinenko.rf.gd)
