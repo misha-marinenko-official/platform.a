@@ -20,3 +20,6 @@ clean:
 	rm -Rfv node_modules
 	rm -Rfv frontend/node_modules
 	rm -Rfv backend/node_modules
+testFrontend: 
+	cd frontend; $(PM) run test
+	
