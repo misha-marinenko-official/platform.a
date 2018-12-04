@@ -1,10 +1,18 @@
 {
-  "name": "@lit79/platforma",
+  "name": "@lit79/platforma.cli",
   "version": "0.0.0",
   "description": "A school project for manage everything.",
   "main": "index.js",
+  "bin": "index.js",
+  "scripts":{
+    "start": "node ."
+  },
   "repository": "https://github.com/misha-marinenko-official/platform.a",
   "author": "Misha Marinenko <a0x77@icloud.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "commander": "^2.19.0",
+    "consola": "^2.3.0"
+  }
 }

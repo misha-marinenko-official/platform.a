@@ -2,6 +2,9 @@
   "name": "@lit79/platforma.backend",
   "version": "0.0.0",
   "description": "A platform backend.",
+  "scripts":{
+    "start": "node ."
+  },
   "main": "index.js",
   "license": "MIT",
   "private": true
