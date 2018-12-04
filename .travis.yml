@@ -1,4 +1,3 @@
-dist: xenial
 language: node
 node_js:
     - "10"
