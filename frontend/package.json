@@ -1,0 +1,9 @@
+{
+    "name": "@lit79/platforma.frontend",
+    "version": "0.0.0",
+    "description": "A platform frontend.",
+    "main": "index.js",
+    "license": "MIT",
+    "private": true
+  }
+  
