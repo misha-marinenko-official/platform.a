@@ -1,6 +1,6 @@
 ## Платформа 
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
-[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/misha-marinenko-official/platform.a)
+[![GitHub issues](https://img.shields.io/github/issues/misha-marinenko-official/platform.a.svg)](https://github.com/misha-marinenko-official/platform.a) <br>
 Платформа Ліцею інформаційних технологій №79, яка полегшуе життя учням та вчителям ліцею.
 
 ## Що воно з себе являє?
