@@ -1,0 +1,10 @@
+{
+  "name": "@lit79/platforma",
+  "version": "0.0.0",
+  "description": "A school project for manage everything.",
+  "main": "index.js",
+  "repository": "https://github.com/misha-marinenko-official/platform.a",
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "MIT",
+  "private": true
+}
