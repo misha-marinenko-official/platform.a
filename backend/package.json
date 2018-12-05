@@ -2,10 +2,15 @@
   "name": "@lit79/platforma.backend",
   "version": "0.0.0",
   "description": "A platform backend.",
-  "scripts":{
+  "scripts": {
     "start": "node ."
   },
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "consola": "^2.3.0",
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0"
+  }
 }
